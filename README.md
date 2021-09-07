@@ -231,6 +231,26 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats/base/dnanstdev`][@stdlib/stats/base/dnanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats/base/dnanvariancetk`][@stdlib/stats/base/dnanvariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/dstdevtk`][@stdlib/stats/base/dstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/nanstdevtk`][@stdlib/stats/base/nanstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/snanstdevtk`][@stdlib/stats/base/snanstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -293,6 +313,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@ling:1974a]: https://doi.org/10.2307/2286154
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanstdev]: https://github.com/stdlib-js/stats-base-dnanstdev
+
+[@stdlib/stats/base/dnanvariancetk]: https://github.com/stdlib-js/stats-base-dnanvariancetk
+
+[@stdlib/stats/base/dstdevtk]: https://github.com/stdlib-js/stats-base-dstdevtk
+
+[@stdlib/stats/base/nanstdevtk]: https://github.com/stdlib-js/stats-base-nanstdevtk
+
+[@stdlib/stats/base/snanstdevtk]: https://github.com/stdlib-js/stats-base-snanstdevtk
+
+<!-- </related-links> -->
 
 </section>
 
