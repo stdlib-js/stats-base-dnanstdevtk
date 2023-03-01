@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dnanstdevtk"
-click B href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dnanstdevtk"
+%% click B href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dnanstdevtk/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dnanstdevtk
