@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-11)
+## Unreleased (2025-03-13)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6003](https://github.com/stdlib-js/stdlib/issues/6003)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`cb7c51d`](https://github.com/stdlib-js/stdlib/commit/cb7c51d44ec655d7aa6bdc76781a539597467865) - **chore:** address commit comments [(#6015)](https://github.com/stdlib-js/stdlib/pull/6015) _(by Deep Trivedi)_
 -   [`fe9731c`](https://github.com/stdlib-js/stdlib/commit/fe9731c4a5ea31fb0553ad5b9b217017749ef157) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanstdevtk` [(#5413)](https://github.com/stdlib-js/stdlib/pull/5413) _(by Prashant Kumar Yadav)_
 -   [`138a9af`](https://github.com/stdlib-js/stdlib/commit/138a9af75d26e528f08891501141d830f0e40a87) - **refactor:** update `stats/base/dnanstdevtk` native addon from C++ to C [(#4718)](https://github.com/stdlib-js/stdlib/pull/4718) _(by Prashant Kumar Yadav)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -39,9 +52,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Deep Trivedi
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
